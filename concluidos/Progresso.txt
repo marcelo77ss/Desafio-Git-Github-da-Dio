@@ -1,3 +1,16 @@
 Em 17 de Julho de 2021, concluiu o curso
 Aprenda o que são Estrutura de
 Dados e Algoritmos.
+
+Em 31 de Julho de 2021, concluiu o curso
+Dominando IDEs Java
+com carga horária de 4 horas.
+
+Em 18 de Agosto de 2021, concluiu o curso
+Estrutura de dados em Java
+com carga horária de 10 horas.
+
+Em 01 de Setembro de 2021, concluiu o curso
+Microsserviços em Spring Cloud
+com Java
+com carga horária de 4 horas.
