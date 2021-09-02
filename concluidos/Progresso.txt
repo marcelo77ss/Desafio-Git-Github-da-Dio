@@ -14,3 +14,8 @@ Em 01 de Setembro de 2021, concluiu o curso
 Microsserviços em Spring Cloud
 com Java
 com carga horária de 4 horas.
+
+Em 02 de Setembro de 2021, concluiu o curso
+Introdução a Qualidade de
+Software
+com carga horária de 2 horas.
